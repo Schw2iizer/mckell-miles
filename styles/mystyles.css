@@ -1,0 +1,36 @@
+.fa-inverse {
+  color: red;
+}
+footer .copyright {
+  font-size: 8px !important;
+}
+h1 {
+  color: purple;
+}
+.subheading {
+  color: #DDA0DD;
+}
+
+.my-image {
+  text-align: center;
+}
+
+img.me {
+  height: 400px;
+  width: auto;
+  padding-top: 10px;
+}
+
+.contact-info {
+  margin-top: 10px;
+}
+
+.video-wrapper {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.video-title {
+  font-weight: 900;
+  margin-bottom: 10px;
+}
